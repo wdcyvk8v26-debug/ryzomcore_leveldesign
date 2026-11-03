@@ -13728,3 +13728,25 @@ uiQuicHintUpdate	[The client or the server needs to be updated.]
 
 uiQReplaceGuildHall	[Buying this guild hall gives up the building your guild has now. The guild inventory stays with the guild.\nDo you really want to do this?]
 
+// Player equipment inspection
+uimGcmInspect	[Inspect]
+
+uiInspectPrivacyTitle	[Equipment inspection]
+
+uiInspectPrivacyDescription	[Who can inspect my equipment?]
+
+uiInspectNobody	[Nobody]
+
+uiInspectGuild	[My guild]
+
+uiInspectCult	[Same cult (Kami/Karavan)]
+
+uiInspectEveryone	[Everyone]
+
+uiInspectWeapons	[Weapons]
+
+uiInspectRight	[Right]
+
+uiInspectLeft	[Left]
+
+uiInspectDenied	[This player does not allow equipment inspection.]

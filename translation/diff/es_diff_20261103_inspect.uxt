@@ -1,0 +1,55 @@
+// DIFF ADD 6657
+// HASH_VALUE 6ACADC9AE5F83C85
+// INDEX 0
+uimGcmInspect	[Inspeccionar]
+
+// DIFF ADD 6658
+// HASH_VALUE 2B399F9D6899BB9C
+// INDEX 1
+uiInspectPrivacyTitle	[Inspección del equipo]
+
+// DIFF ADD 6659
+// HASH_VALUE 9A15D49A07494478
+// INDEX 2
+uiInspectPrivacyDescription	[¿Quién puede inspeccionar mi equipo?]
+
+// DIFF ADD 6660
+// HASH_VALUE EF761C62EF344478
+// INDEX 3
+uiInspectNobody	[Nadie]
+
+// DIFF ADD 6661
+// HASH_VALUE 64089434641894D4
+// INDEX 4
+uiInspectGuild	[Mi gremio]
+
+// DIFF ADD 6662
+// HASH_VALUE DC550F654B2A5417
+// INDEX 5
+uiInspectCult	[Mismo culto (Kami/Karavan)]
+
+// DIFF ADD 6663
+// HASH_VALUE 705864146498F4E4
+// INDEX 6
+uiInspectEveryone	[Todos]
+
+// DIFF ADD 6664
+// HASH_VALUE 6EF9988DA21878A7
+// INDEX 7
+uiInspectWeapons	[Armas]
+
+// DIFF ADD 6665
+// HASH_VALUE 6AB75C97E1786095
+// INDEX 8
+uiInspectRight	[Derecha]
+
+// DIFF ADD 6666
+// HASH_VALUE 7498543074985430
+// INDEX 9
+uiInspectLeft	[Izquierda]
+
+// DIFF ADD 6667
+// HASH_VALUE 94D1F639D2443A9E
+// INDEX 10
+uiInspectDenied	[Este jugador no permite inspeccionar su equipo.]
+
